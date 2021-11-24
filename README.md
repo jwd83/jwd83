@@ -6,7 +6,7 @@
 
 💬 Feel free to ask me anything about  🏎️ motorsports or 🐱‍💻 software + firmware development.
 
-⌚ I worked as employee #3 for Powertrain Control Solutions and designed their PC software for use with their transmission controller, XFC fuel controller and D200 dash logger and various internal tools as my first job after graduating highschool in '01.  I spent nearly two decades in that industry before starting Ayrscott, LLC from my growing freelancing work following my resignation from the industry in 2019.
+I worked as employee #3 for Powertrain Control Solutions and designed their PC software for use with their automatic transmission controller (TCU), XFC Fuel Controller and D200 Dash Logger and various internal tools as my first job after graduating highschool in '01.  I spent nearly two decades in that industry before starting Ayrscott, LLC from my growing freelancing work following my resignation from the industry in '19.
 
 😄 Pronouns: he/him
 
