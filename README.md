@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I'm Jared De Blander, found of Ayrscott, LLC 
+
+🌱 I’m currently learning Deno, PhaserJS & DigitalOcean's App Platform
+
+💬 Feel free to ask me about anything motorsports or programming related. I worked as employee #3 for Powertrain Control Solutions and designed their PC software for use with their transmission controller, XFC fuel controller and D200 dash logger and various internal tools as my first job after graduating highschool in '01.  I spent nearly two decades in that industry before starting my company from my freelancing work: Ayrscott, LLC.
+
+⚡ Fun fact: Back in the late '90s I came in 251 place on hackerslab.org's worldwide hacking competition!
+
 <!--
 **jwd83/jwd83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
