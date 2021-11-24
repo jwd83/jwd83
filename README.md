@@ -8,9 +8,9 @@ I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/)
 
 💬 Feel free to ask me anything about motorsports 🏎️ or software + firmware development. 💻
 
-🤓 I worked as employee #3 for Powertrain Control Solutions and designed their PC software for use with their automatic transmission controller (TCU), XFC Fuel Controller and D200 Dash Logger and various internal tools as my first job after graduating highschool in '01.  I went on to spend nearly two decades in that industry performing a range of IT and programming tasks from eCommerce and dropshipping to accounting and automation along with countless other responsbilities before moving on to start Ayrscott, LLC from my growing freelancing work.
+🤓 I worked as employee #3 for Powertrain Control Solutions and designed their PC software for use with their automatic transmission controller (TCU), XFC Fuel Controller and D200 Dash Logger and various internal tools as my first job after graduating highschool in '01.  I went on to spend nearly two decades in that industry performing a range of IT and programming tasks from eCommerce and dropshipping to accounting and automation along with countless other responsbilities before moving on to start Ayrscott, LLC from my growing freelancing projects.
 
-These days I can found behounnd my desk at home working on projects for myself or clients while listening to music and receiving feedback from my ~~junior developer~~ pupper Peach.
+🐕 These days I can found behounnd my desk at home tinkering away on projects for myself or clients while listening to music and receiving feedback from my ~~junior developer~~  Peach 
 
 😄 Pronouns: he/him
 
