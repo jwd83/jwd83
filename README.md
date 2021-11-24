@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm Jared De Blander, found of Ayrscott, LLC 
+🔭 I'm Jared De Blander, founder of Ayrscott, LLC 
 
 🌱 I’m currently learning Deno, PhaserJS & DigitalOcean's App Platform
 
