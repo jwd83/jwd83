@@ -11,7 +11,7 @@ I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/)
 
 # 📖
 
-I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's with a good friend. I got hooked and quickly moved onto C++, Visual Basic and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
+I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's with a good friend. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
 
 In the late 1990's during my junior year of high school I worked for a company called Envista that did a mix of HTML and ColdFusion development for a number of fiancial industry clients including [Burke & Herbert Bank](https://www.burkeandherbertbank.com) and [The Clinton Group, Inc](https://www.dnb.com/business-directory/company-profiles.the_clinton_group_inc.33ea3499ac99219ffe428ac284ae43f0.html).
 
