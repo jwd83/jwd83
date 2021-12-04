@@ -21,6 +21,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 📫 How to reach me
 * [jared@ayrscott.com](mailto:jared@ayrscott.com)
+* [discord.ayrscott.com](http://discord.ayrscott.com/)
 
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
 
