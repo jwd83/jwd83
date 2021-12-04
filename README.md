@@ -3,13 +3,10 @@
 
 I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/)
 
-🌱 I’m currently learning Deno, PhaserJS & DigitalOcean's App Platform
-
-## 🏎️ 😍 💻
-
-💬 Feel free to ask me anything about motorsports or development. 
-
 # 📖
+## A bit about myself...
+
+🌱 I’m currently learning Deno, PhaserJS & DigitalOcean's App Platform
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
 
@@ -18,10 +15,12 @@ In the late 1990's during my junior year of high school I worked for a company c
 After graduating high school in the post dot-com bubble I went on to work as employee #3 for [Powertrain Control Solutions](https://www.powertraincontrolsolutions.com/) and designed their PC software for use with their [automatic transmission controller (TCU)](https://www.powertraincontrolsolutions.com/Performance_Aftermarket/Products/Transmission_Products/TCM2000_Transmission_Controller/), XFC Fuel Controller, [D200 Dashlogger](https://www.powertraincontrolsolutions.com/Performance_Aftermarket//Products/Displays/D200_Dashlogger/) and various internal tools as my first job. I went on to spend nearly two decades in that industry performing a range of IT and programming tasks ranging from eCommerce to accounting automation along with countless other responsbilities before moving on to found [Ayrscott, LLC](https://ayrscott.com/) in 2021 from my growing freelancing projects amidst the height of the COVID pandemic.
 
  These days I can typically be found in my home office tinkering away on projects for myself or clients while listening to music and receiving feedback my pupper Peach! 🐕
+ 
+🎙️ [discord.ayrscott.com](http://discord.ayrscott.com/)
 
-📫 How to reach me
-* [jared@ayrscott.com](mailto:jared@ayrscott.com)
-* [discord.ayrscott.com](http://discord.ayrscott.com/)
+📫 [jared@ayrscott.com](mailto:jared@ayrscott.com)
+
+🐦 [@JaredDeBlander](https://twitter.com/JaredDeBlander)
 
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
 
