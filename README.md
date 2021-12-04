@@ -1,10 +1,8 @@
-# 👋
-### Hi there 
+# 👋 Hi there 
 
 I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/)
 
-# 📖
-## A bit about myself...
+# 📖 A bit about myself...
 
 🌱 I’m currently learning Deno, PhaserJS & DigitalOcean's App Platform
 
@@ -23,6 +21,8 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 🐦 [@JaredDeBlander](https://twitter.com/JaredDeBlander)
 
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
+
+![Ayrscott](https://cdn.ayrscott.com/logo.png)
 
 <!--
 **jwd83/jwd83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
