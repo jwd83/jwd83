@@ -4,7 +4,7 @@ I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/)
 
 # 📖 A bit about myself...
 
-🌱 I’m currently learning Deno, PhaserJS & DigitalOcean's App Platform
+🌱 I’m currently interested in learning more about Deno, PhaserJS & Discord.js
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
 
