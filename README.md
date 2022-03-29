@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/)
+I'm **Jared De Blander**, founder of [Ayrscott, LLC](https://ayrscott.com/) that provides a range of web, software and engineering services. 
 
 # 📖 A bit about myself...
 
