@@ -4,7 +4,7 @@ I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) that provides a
 
 # 📖 A bit about myself...
 
-🌱 I’m currently interested in learning more about Deno, PhaserJS & Discord.js
+🌱 I’m currently interested in learning more about i2s, [Godot](https://godotengine.org/), [combinational logic](https://store.steampowered.com/app/1444480/Turing_Complete/) & AI
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
 
