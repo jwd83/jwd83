@@ -22,7 +22,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
 
-![Ayrscott](https://cdn.ayrscott.com/logo.png)
+[![Ayrscott](https://cdn.ayrscott.com/logo.png)](https://ayrscott.com/)
 
 <!--
 **jwd83/jwd83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
