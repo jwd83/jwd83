@@ -26,28 +26,28 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 --
 
-Current Setup
+# Current Setup (~Summer 2023)
 
 * Workstation
     * Core i7-12700f
     * 64 GB DDR-3200
-* * NVIDIA RTX 3060 Ti
-* * ASUS ProArt 2160p 27"
-* * 2x Gigabyte 32" 165hz 1440p
-* * Motu M2 Audio Interface
-* * * XLR In: Shure SM-57
-* * * Balanced Out: Schiit Lokius EQ : SMSL SP200 : Sennheiser HD600
-* * * RCA Out: Topping TP 20 Mark 2 : Emotiva B1+/Sony SSCS 10" Sub
+    * NVIDIA RTX 3060 Ti
+    * ASUS ProArt 2160p 27"
+    * 2x Gigabyte 32" 165hz 1440p
+    * Motu M2 Audio Interface
+        * XLR In: Shure SM-57
+        * Balanced Out: Schiit Lokius EQ : SMSL SP200 : Sennheiser HD600
+        * RCA Out: Topping TP 20 Mark 2 : Emotiva B1+/Sony SSCS 10" Sub
 * Laptop
-* * MacBook Air M1
-* * ASUS ProArt 2160p 27"
+    * MacBook Air M1
+    * ASUS ProArt 2160p 27"
 * HTPC
-* * Core i3-8100
-* * 24GB DDR-3200
-* * NVIDIA GTX 1050
-* * TCL 65" 2160p
-* * Schiit Modius DAC : SMSL SA300 : Polk XT-20/Polk 10" Sub
-* * TreasLin HDMI Capture Card
+    * Core i3-8100
+    * 24GB DDR-3200
+    * NVIDIA GTX 1050
+    * TCL 65" 2160p
+    * Schiit Modius DAC : SMSL SA300 : Polk XT-20/Polk 10" Sub
+    * TreasLin HDMI Capture Card
  
 <!--
 **jwd83/jwd83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
