@@ -31,7 +31,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 * Workstation
     * Core i7-12700f
     * 64 GB DDR-3200
-    * NVIDIA RTX 3060 Ti
+    * NVIDIA RTX 3090 FE
     * ASUS ProArt 2160p 27"
     * 2x Gigabyte 32" 165hz 1440p
     * Motu M2 Audio Interface
