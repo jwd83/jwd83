@@ -32,8 +32,8 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * Core i7-12700f
     * 64 GB DDR-3200
     * NVIDIA RTX 3090 FE
-    * ASUS ProArt 2160p 27"
-    * 2x Gigabyte 32" 165hz 1440p
+    * LG C2 OLED 42" 2160p 120hz 
+    * 2x ASUS ProArt IPS 2160p 27"
     * Motu M2 Audio Interface
         * XLR In: Shure SM-57
         * Balanced Out: Schiit Lokius EQ : SMSL SP200 : Sennheiser HD600
