@@ -34,6 +34,8 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * NVIDIA RTX 3090 FE
     * LG C2 OLED 42" 2160p 120hz 
     * 2x ASUS ProArt IPS 2160p 27"
+    * Keychron V3 keyboard with K Pro Red Switches
+    * Glorious Model O Wireless Mouse
     * Motu M2 Audio Interface
         * XLR In: Shure SM-57
         * Balanced Out: Schiit Lokius EQ : SMSL SP200 : Sennheiser HD600
