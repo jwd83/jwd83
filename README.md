@@ -4,7 +4,7 @@ I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) that provides a
 
 # 📖 A bit about myself...
 
-🌱 I’m currently interested in learning more about Nuxt, Supabase, [Unity](https://unity.com/), [Godot](https://godotengine.org/), [combinational](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
+🌱 I’m currently interested in learning more about Nuxt, Supabase, [Godot](https://godotengine.org/), [combinational](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
 
@@ -37,9 +37,9 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * Keychron V3 keyboard with K Pro Red Switches
     * Glorious Model O Wireless Mouse
     * Motu M2 Audio Interface
-        * XLR In: Shure SM-57
-        * Balanced Out: Schiit Lokius EQ : SMSL SP200 : Sennheiser HD600
-        * RCA Out: Topping TP 20 Mark 2 : Emotiva B1+/Sony SSCS 10" Sub
+        * XLR In ⬅️ Shure SM-57
+        * 1/4" Balanced Out ➡️ Schiit Lokius EQ ➡️ SMSL SP200 ➡️ Sennheiser HD600
+        * RCA Out ➡️ Topping TP 20 Mark 2 ➡️ Emotiva B1+/Sony SSCS 10" Sub
 * Laptop
     * MacBook Air M1
     * ASUS ProArt 2160p 27"
@@ -48,8 +48,8 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * 24GB DDR-3200
     * NVIDIA GTX 1050
     * TCL 65" 2160p
-    * Schiit Modius DAC : SMSL SA300 : Polk XT-20/Polk 10" Sub
-    * TreasLin HDMI Capture Card
+    * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
+    * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
  
 <!--
 **jwd83/jwd83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
