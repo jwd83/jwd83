@@ -2,6 +2,13 @@
 
 I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) that provides a range of web, software and engineering services. 
 
+# Tools
+
+Here are some simple browser based tools I have published.
+
+* In Browser Ping - [https://ping.ayrscott.com/](https://ping.ayrscott.com/)
+* In Browser Microphone Fast Fourier Transform - [https://jwd83.github.io/mic-fft/](https://jwd83.github.io/mic-fft/)
+
 # 📖 A bit about myself...
 
 🌱 I’m currently interested in learning more about Nuxt, Supabase, [Godot](https://godotengine.org/), [combinational](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
