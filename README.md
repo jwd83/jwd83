@@ -37,8 +37,10 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 * Workstation
     * Core i7-12700f
-    * 64 GB DDR-3200
     * NVIDIA RTX 3090 FE
+    * Solidigm P41 2TB
+    * TeamGroup MP34 4TB
+    * 64GB DDR-3200
     * LG C2 OLED 42" 2160p 120hz 
     * 2x ASUS ProArt IPS 2160p 27"
     * Keychron V3 keyboard with K Pro Red Switches
@@ -46,7 +48,9 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * Motu M2 Audio Interface
         * XLR In ⬅️ Shure SM-57
         * 1/4" Balanced Out ➡️ Schiit Lokius EQ ➡️ SMSL SP200 ➡️ Sennheiser HD600
-        * RCA Out ➡️ Topping TP 20 Mark 2 ➡️ Emotiva B1+/Sony SSCS 10" Sub
+        * RCA Out ➡️ Topping TP 20 Mark 2 ➡️ Sony SSCS 10" Sub ➡️ Emotiva B1+ Bookshelfs
+    * Homemade 11' x 8' L Desk
+
 * Laptop
     * MacBook Air M1
     * ASUS ProArt 2160p 27"
