@@ -55,7 +55,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * MacBook Air M1
     * ASUS ProArt 2160p 27"
 * HTPC
-    * Core i3-8700k
+    * Core i7-8700k
     * 24GB DDR-3200
     * NVIDIA RTX 4060
     * TCL 65" 2160p
