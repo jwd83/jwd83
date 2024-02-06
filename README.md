@@ -36,7 +36,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 # Current Setup (~Fall 2023)
 
 * Workstation
-    * Core i7-12700f
+    * Intel Core i7-12700f
     * NVIDIA RTX 3090 FE
     * Solidigm P41 2TB
     * TeamGroup MP34 4TB
@@ -55,7 +55,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * MacBook Air M1
     * ASUS ProArt 2160p 27"
 * HTPC
-    * Core i7-8700k
+    * Intel Core i7-8700k
     * 24GB DDR-3200
     * NVIDIA RTX 4060
     * TCL 65" 2160p
