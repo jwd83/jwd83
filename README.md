@@ -55,9 +55,9 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * MacBook Air M1
     * ASUS ProArt 2160p 27"
 * HTPC
-    * Core i3-8100
+    * Core i3-8700k
     * 24GB DDR-3200
-    * NVIDIA GTX 1050
+    * NVIDIA RTX 4060
     * TCL 65" 2160p
     * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
     * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
