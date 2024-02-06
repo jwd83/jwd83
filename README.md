@@ -33,7 +33,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 --
 
-# Current Setup (~Fall 2023)
+# Current Setup (~Early 2024)
 
 * Workstation
     * Intel Core i7-12700f
