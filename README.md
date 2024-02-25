@@ -9,6 +9,7 @@ Here are some simple browser based tools I have published and other projects I h
 * In Browser Ping - [https://ping.ayrscott.com/](https://ping.ayrscott.com/)
 * In Browser Microphone Fast Fourier Transform - [https://jwd83.github.io/mic-fft/](https://jwd83.github.io/mic-fft/)
 * My first merge into a Godot Engine engine repository - [https://github.com/godotengine/godot-docs/pull/8101]([https://github.com/godotengine/godot-docs/pull/8101])
+* Fixing documentation with BunnyCDN - [https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7](https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7)
 
 # 📖 A bit about myself...
 
