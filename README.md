@@ -39,7 +39,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 * Workstation
     * Intel Core i7-12700f
-    * NVIDIA RTX 3090 FE
+    * NVIDIA RTX 4070 Super
     * Solidigm P41 2TB
     * TeamGroup MP34 4TB
     * 64GB DDR-3200
@@ -54,7 +54,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * Homemade 11' x 8' L Desk
 
 * Laptop
-    * MacBook Air M1
+    * MacBook Air M2 15"
     * ASUS ProArt 2160p 27"
 * HTPC
     * Intel Core i7-8700k
