@@ -57,8 +57,8 @@ After graduating high school in the post dot-com bubble I went on to work as emp
     * MacBook Air M2 15"
     * ASUS ProArt 2160p 27"
 * HTPC
-    * Intel Core i7-8700k
-    * 24GB DDR-3200
+    * Intel Core i5-12400f
+    * 32GB DDR-3200
     * NVIDIA RTX 4060
     * TCL 65" 2160p
     * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
