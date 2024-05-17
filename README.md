@@ -2,6 +2,10 @@
 
 I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) that provides a range of web and software engineering services. 
 
+
+[![Ayrscott](https://cdn.ayrscott.com/logo.png)](https://ayrscott.com/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwd83&layout=compact&hide=css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Tools
 
 Here are some simple browser based tools I have published and other projects I have contribued to recenty.
@@ -11,8 +15,6 @@ Here are some simple browser based tools I have published and other projects I h
 * My first merge into a Godot Engine engine repository - [https://github.com/godotengine/godot-docs/pull/8101]([https://github.com/godotengine/godot-docs/pull/8101])
 * Fixing documentation with BunnyCDN - [https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7](https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7)
 
-# My recent language use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwd83&layout=compact&hide=css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 📖 A bit about myself...
@@ -34,9 +36,6 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 🐦 [@JaredDeBlander](https://twitter.com/JaredDeBlander)
 
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
-
-[![Ayrscott](https://cdn.ayrscott.com/logo.png)](https://ayrscott.com/)
-
 
 # Current Setup (~Early 2024)
 
