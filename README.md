@@ -37,7 +37,6 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 [![Ayrscott](https://cdn.ayrscott.com/logo.png)](https://ayrscott.com/)
 
---
 
 # Current Setup (~Early 2024)
 
