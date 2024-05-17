@@ -11,6 +11,10 @@ Here are some simple browser based tools I have published and other projects I h
 * My first merge into a Godot Engine engine repository - [https://github.com/godotengine/godot-docs/pull/8101]([https://github.com/godotengine/godot-docs/pull/8101])
 * Fixing documentation with BunnyCDN - [https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7](https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7)
 
+# My recent language use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwd83&layout=compact&hide=css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 📖 A bit about myself...
 
 🌱 I’m currently interested in learning more about PyGame, [Godot](https://godotengine.org/), [combinational](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
