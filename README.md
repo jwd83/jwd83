@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) that provides a range of web and software engineering services. 
+I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) a small business that provides a range of web and software engineering services. 
 
 
 [![Ayrscott](https://cdn.ayrscott.com/logo.png)](https://ayrscott.com/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwd83&layout=compact&hide=css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
