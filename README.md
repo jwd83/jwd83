@@ -23,7 +23,7 @@ Here are some simple browser based tools I have published and other projects I h
 
 # 📖 A bit about myself...
 
-🌱 I’m currently interested in learning more about PyGame, [Godot](https://godotengine.org/), [combinational](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
+🌱 I’m currently interested in learning more about FPGAs & CPU Design, PyGame, [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system.
 
