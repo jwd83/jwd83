@@ -10,9 +10,9 @@
 
 I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) a small business that provides a range of web and software engineering services. 
 
-# Tools
+# Recent Projects
 
-Here are some simple browser based tools I have published and other projects I have contribued to recenty.
+Here are some of the projects I have published and other projects I have contribued to recenty.
 
 * In Browser Ping - [https://ping.ayrscott.com/](https://ping.ayrscott.com/)
 * In Browser Microphone Fast Fourier Transform - [https://jwd83.github.io/mic-fft/](https://jwd83.github.io/mic-fft/)
