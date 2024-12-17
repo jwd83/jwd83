@@ -1,16 +1,5 @@
-# 👋 Hi there  [![Ayrscott](https://cdn.ayrscott.com/logo.png)](https://ayrscott.com/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwd83&layout=compact&hide=css,html,openscad,arduino,vim%20script,powershell,hack,mako&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwd83&layout=compact&hide=css,html,openscad,arduino,vim%20script,powershell,hack,mako&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="right" style="float:float">
-
-
-
-
-
-</div>
-
-I'm **Jared**, founder of [Ayrscott, LLC](https://ayrscott.com/) a small business that provides a range of web and software engineering services. 
-
-# Recent Projects
 
 Here are some of the projects I have published and other projects I have contribued to recenty.
 
@@ -31,17 +20,9 @@ In the late 1990's during my junior year of high school I worked for a company c
 
 After graduating high school in the post dot-com bubble I went on to work as employee #3 for [Powertrain Control Solutions](https://www.powertraincontrolsolutions.com/) and designed their PC software for use with their [automatic transmission controller (TCU)](https://www.powertraincontrolsolutions.com/Performance_Aftermarket/Products/Transmission_Products/TCM2000_Transmission_Controller/), XFC Fuel Controller, [D200 Dashlogger](https://www.powertraincontrolsolutions.com/Performance_Aftermarket//Products/Displays/D200_Dashlogger/) and various internal tools. I went on to spend nearly two decades in that industry performing a range of IT and programming tasks ranging from eCommerce to accounting automation along with countless other responsbilities before moving on to found [Ayrscott, LLC](https://ayrscott.com/) in 2021 from my growing freelancing projects amidst the height of the COVID pandemic.
 
- These days I can typically be found in my home office tinkering away on projects for myself or clients while listening to music and receiving feedback my pupper Peach! 🐕
- 
-🎙️ [discord.ayrscott.com](http://discord.ayrscott.com/)
-
-📫 [jared@ayrscott.com](mailto:jared@ayrscott.com)
-
-🐦 [@JaredDeBlander](https://twitter.com/JaredDeBlander)
-
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
 
-# Current Setup (~Early 2024)
+# Current Setup (~Late 2024)
 
 * Workstation
     * Intel Core i7-12700f
