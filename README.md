@@ -15,6 +15,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 Here are some of the projects I have published and other projects I have contribued to recenty.
 
+* HDLBits [Verilog Course Exercises](https://github.com/jwd83/hdlbits/)
 * In Browser Ping - [https://ping.ayrscott.com/](https://ping.ayrscott.com/)
 * In Browser Microphone Fast Fourier Transform - [https://jwd83.github.io/mic-fft/](https://jwd83.github.io/mic-fft/)
 * My first merge into a Godot Engine engine repository - [https://github.com/godotengine/godot-docs/pull/8101]([https://github.com/godotengine/godot-docs/pull/8101])
