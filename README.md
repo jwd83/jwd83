@@ -31,8 +31,9 @@ Here are some of the projects I have published and other projects I have contrib
     * Solidigm P41 2TB
     * TeamGroup MP34 4TB
     * 64GB DDR-3200
-    * LG C2 OLED 42" 2160p 120hz 
-    * 2x ASUS ProArt IPS 2160p 27"
+    * LG C2 OLED 42" 2160p 120hz
+    * LG 42" VA 2160p 60hz
+    * ASUS ProArt IPS 2160p 27"
     * Keychron V3 keyboard with K Pro Red Switches
     * Glorious Model O Wireless Mouse
     * Motu M2 Audio Interface
