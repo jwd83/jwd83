@@ -24,7 +24,7 @@ Here are some of the projects I have published and other projects I have contrib
 
 
 
-# Current Setup (~Late 2024)
+# Current Setup (~Early 2025)
 
 * Workstation
     * Intel Core i7-12700f
