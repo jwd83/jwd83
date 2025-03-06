@@ -1,6 +1,6 @@
 # 📖 A bit about myself...
 
-🌱 I’m currently interested in learning more about FPGAs & CPU design in [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/5CBCEE65CFD17EBB), PyGame, [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
+🌱 I’m currently interested in learning more about FPGAs & CPU design in [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/5CBCEE65CFD17EBB), Raylib, PyGame, [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system by the end of my sophmore year of high school.
 
