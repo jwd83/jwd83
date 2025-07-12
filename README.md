@@ -29,9 +29,9 @@ Here are some of the projects I have published and other projects I have contrib
 * Workstation
     * AMD Ryzen 7 5700X3D
     * AMD Radeon RX 9070 XT
+    * 64GB DDR-3200
     * Solidigm P41 2TB
     * TeamGroup MP34 4TB
-    * 64GB DDR-3200
     * LG C2 OLED 42" 2160p 120hz
     * LG 42" VA 2160p 60hz
     * ASUS ProArt IPS 2160p 27"
@@ -48,8 +48,9 @@ Here are some of the projects I have published and other projects I have contrib
     * ASUS ProArt 2160p 27"
 * HTPC
     * Intel Core i5-12400f
-    * 32GB DDR-3200
     * NVIDIA RTX 5060 Ti 16GB
+    * 32GB DDR-3200
+    * Intel 665p 2 TB
     * TCL 65" 2160p
     * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
     * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
