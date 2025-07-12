@@ -49,7 +49,7 @@ Here are some of the projects I have published and other projects I have contrib
 * HTPC
     * Intel Core i5-12400f
     * 32GB DDR-3200
-    * NVIDIA RTX 4060
+    * NVIDIA RTX 5060 Ti 16GB
     * TCL 65" 2160p
     * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
     * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
