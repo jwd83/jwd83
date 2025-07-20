@@ -38,7 +38,7 @@ Here are some of the projects I have published and other projects I have contrib
     * Keychron V3 keyboard with K Pro Red Switches
     * Glorious Model O Wireless Mouse
     * Motu M2 Audio Interface
-        * XLR In ⬅️ Shure SM-57
+        * XLR In ⬅️ dbx 286s ⬅️ Shure SM-57/Audio-Technica BPHS1
         * 1/4" Balanced Out ➡️ Schiit Lokius EQ ➡️ SMSL SP200 ➡️ Sennheiser HD600
         * RCA Out ➡️ Topping TP 20 Mark 2 ➡️ Sony SSCS 10" Sub ➡️ Emotiva B1+ Bookshelfs
     * Homemade 11' x 8' L Desk
