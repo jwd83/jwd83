@@ -10,6 +10,8 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 
 ⚡ Fun fact: Back in the late '90s I came in 251st place in hackerslab.org's worldwide hacking competition! 🥷
 
+[Language Usage Breakdown](https://jwd83.github.io/githubpie/?user=jwd83)
+
 Here are some of the projects I have published and other projects I have contributed to recenty.
 
 * [HDLBits Verilog Course Exercises and my FPGA CPU Designs](https://github.com/jwd83/verilog/)
