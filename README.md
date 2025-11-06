@@ -1,4 +1,4 @@
-# 📖 A bit about myself...
+# 📖 A bit about myself
 
 🌱 I’m currently interested in learning more about FPGAs & CPU design in [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/5CBCEE65CFD17EBB), Raylib, PyGame, [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
 
@@ -23,39 +23,50 @@ Here are some of the projects I have published and other projects I have contrib
 * Fixing documentation with BunnyCDN - [https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7](https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7)
 * Left / Right Audio Test - [https://leftright.jwd.me/](https://leftright.jwd.me/)
 
-
-
 # Current Setup (~Early 2025)
 
 * Workstation
-    * AMD Ryzen 7 5700X3D
-    * AMD Radeon RX 9070 XT
-    * 64GB DDR-3200
-    * Solidigm P41 2TB
-    * TeamGroup MP34 4TB
-    * LG C2 OLED 42" 2160p 120hz
-    * LG 42" VA 2160p 60hz
-    * ASUS ProArt IPS 2160p 27"
-    * Keychron V3 keyboard with K Pro Red Switches
-    * Glorious Model O Wireless Mouse
-    * Motu M2 Audio Interface
-        * XLR In ⬅️ dbx 286s ⬅️ Shure SM-57/Audio-Technica BPHS1
-        * 1/4" Balanced Out ➡️ Schiit Lokius EQ ➡️ SMSL SP200 ➡️ Sennheiser HD600
-        * RCA Out ➡️ Topping TP 20 Mark 2 ➡️ Sony SSCS 10" Sub ➡️ Emotiva B1+ Bookshelfs
-    * Homemade 11' x 8' L Desk
+  * AMD Ryzen 7 5700X3D
+  * AMD Radeon RX 9070 XT
+  * 64GB DDR-3200
+  * Solidigm P41 2TB
+  * TeamGroup MP34 4TB
+  * LG C2 OLED 42" 2160p 120hz
+  * LG 42" VA 2160p 60hz
+  * ASUS ProArt IPS 2160p 27"
+  * Keychron V3 keyboard with K Pro Red Switches
+  * Glorious Model O Wireless Mouse
+  * Motu M2 Audio Interface
+    * XLR In ⬅️ dbx 286s ⬅️ Shure SM-57/Audio-Technica BPHS1
+    * 1/4" Balanced Out ➡️ Schiit Lokius EQ ➡️ SMSL SP200 ➡️ Sennheiser HD600
+    * RCA Out ➡️ Topping TP 20 Mark 2 ➡️ Sony SSCS 10" Sub ➡️ Emotiva B1+ Bookshelfs
+  * Homemade 11' x 8' L Desk
 
 * Laptop
-    * MacBook Air M2 15"
-    * ASUS ProArt 2160p 27"
+  * MacBook Air M2 15"
+  * ASUS ProArt 2160p 27"
 * HTPC
-    * Intel Core i5-12400f
-    * NVIDIA RTX 5060 Ti 16GB
-    * 32GB DDR-3200
-    * Intel 665p 2 TB
-    * TCL 65" 2160p
-    * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
-    * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
- 
+  * Intel Core i5-12400f
+  * NVIDIA RTX 5060 Ti 16GB
+  * 32GB DDR-3200
+  * Intel 665p 2 TB
+  * TCL 65" 2160p
+  * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
+  * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
+
+## Random Trivia
+
+### Favorite Editors / IDEs Over the Years
+
+* Early 1990's - QBASIC/QuickBASIC/Borland Turbo C++
+* Mid 1990's - Microsoft Visual Basic 3 (ever thankful to my neighbor who gave me his copy!)
+* Late 1990's - Microsoft Visual Studio 5/6
+* 2000's - Notepad++, Eclipse, SublimeText (multiple paid licenses over the years)
+* 2010's - Atom, Visual Studio Code/PlatformIO, Arduino
+* 2020's - Visual Studio Code, WARP
+
+* Honorable Mentions - Nano & VIM (used on servers a lot over the years) I've tried to make the switch to VIM but old habits for movements die hard! I still use control arrow keys and home/end out of muscle memory from my early days of programming on DOS based systems.
+
 <!--
 **jwd83/jwd83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
