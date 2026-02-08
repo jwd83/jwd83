@@ -50,7 +50,7 @@ Here are some of the projects I have published and other projects I have contrib
   * NVIDIA RTX 5060 Ti 16GB
   * 32GB DDR-3200
   * Intel 665p 2 TB
-  * TCL 65" 2160p
+  * TCL 85" MiniLED 2160p
   * Schiit Modius DAC ➡️ SMSL SA300 ➡️ Polk XT-20/Polk 10" Sub
   * TreasLin HDMI Capture Card ⬅️ Nintendo Switch/PS5
 
