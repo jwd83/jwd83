@@ -23,7 +23,7 @@ Here are some of the projects I have published and other projects I have contrib
 * Fixing documentation with BunnyCDN - [https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7](https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7)
 * Left / Right Audio Test - [https://leftright.jwd.me/](https://leftright.jwd.me/)
 
-# Current Setup (~Early 2025)
+# Current Setup (~Early 2026)
 
 * Workstation
   * AMD Ryzen 7 5700X3D
@@ -31,7 +31,7 @@ Here are some of the projects I have published and other projects I have contrib
   * 64GB DDR-3200
   * Solidigm P41 2TB
   * TeamGroup MP34 4TB
-  * LG C2 OLED 42" 2160p 120hz
+  * LG OLED 42" 2160p 120hz
   * LG 42" VA 2160p 60hz
   * ASUS ProArt IPS 2160p 27"
   * Keychron V3 keyboard with K Pro Red Switches
