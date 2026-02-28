@@ -63,7 +63,7 @@ Here are some of the projects I have published and other projects I have contrib
 * Late 1990's - Microsoft Visual Studio 5/6
 * 2000's - Notepad++, Eclipse, SublimeText (multiple paid licenses over the years)
 * 2010's - Atom, Visual Studio Code/PlatformIO, Arduino
-* 2020's - Visual Studio Code, WARP, Droid
+* 2020's - Visual Studio Code, WARP, Droid, Codex, Claude, Antigravity
 
 * Honorable Mentions - Nano & VIM (used on servers a lot over the years) I've tried to make the switch to VIM but old habits for movements die hard! I still use control arrow keys and home/end out of muscle memory from my early days of programming on DOS based systems.
 
