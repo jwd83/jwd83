@@ -4,7 +4,7 @@
 
 I love to tinker and have a smorgas board of my projects and tools up at [tools.jwd.me](https://tools.jwd.me/)
 
-I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990's. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system by the end of my sophmore year of high school.
+I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990s DOS era. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system by the end of my sophmore year of high school.
 
 In the late 1990's during my junior year of high school I worked for a company called [Envista](https://web.archive.org/web/19991011020250/http://envista.com/envista/index.html) that did a mix of HTML and ColdFusion development for a number of fiancial industry clients including [Burke & Herbert Bank](https://www.burkeandherbertbank.com) and [The Clinton Group, Inc](https://www.dnb.com/business-directory/company-profiles.the_clinton_group_inc.33ea3499ac99219ffe428ac284ae43f0.html).
 
