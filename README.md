@@ -2,7 +2,7 @@
 
 🌱 I’m currently interested in learning more about FPGAs & CPU design in [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/5CBCEE65CFD17EBB), Raylib, PyGame, [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
 
-As of early 2026 I have been working on a python verilog simulator and accompanying CPU design game and expanding the smorgas board of other projects and tools up at [tools.jwd.me](https://tools.jwd.me/) while 
+As of early 2026 I have been working on a [python verilog simulator](https://github.com/jwd83/pysvsim) and accompanying CPU design game and expanding the smorgas board of other projects and tools up at [tools.jwd.me](https://tools.jwd.me/) while 
 
 I've been programming since childhood, once attending a QBASIC focused summer camp in the early 1990s DOS era. I got hooked and quickly moved onto C++, Visual Basic, HTML and making a host of AOL "hacking" tools leading to my parent's account getting a ban for a chat utility I worked on that evaded their message rate timeout system by the end of my sophmore year of high school.
 
