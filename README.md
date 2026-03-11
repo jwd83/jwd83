@@ -1,6 +1,6 @@
 # 📖 A bit about myself
 
-🌱 I’m currently interested in learning more about FPGAs & CPU design in [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/5CBCEE65CFD17EBB), Raylib, PyGame, [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
+🌱 I’m currently interested in learning more about FPGAs & CPU design in [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/5CBCEE65CFD17EBB), Raylib, [PyGame](https://github.com/jwd83/multicart), [combinational and sequential](https://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) [logic](https://store.steampowered.com/app/1444480/Turing_Complete/) and [Artificial Intelligence](https://chat.openai.com/).
 
 As of early 2026 I have been working on a [python verilog simulator](https://github.com/jwd83/pysvsim) and accompanying [CPU design game](https://github.com/jwd83/bitworks) and expanding the smorgas board of other projects and tools up at [tools.jwd.me](https://tools.jwd.me/) while 
 
