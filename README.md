@@ -43,7 +43,7 @@ Here are some of the projects I have published and other projects I have contrib
   * Homemade 11' x 8' L Desk
 
 * Laptop
-  * MacBook Air M2 15"
+  * MacBook Neo 512GB
   * ASUS ProArt 2160p 27"
 * HTPC
   * Intel Core i5-12400f
