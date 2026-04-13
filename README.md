@@ -15,7 +15,7 @@ After graduating high school in the post dot-com bubble I went on to work as emp
 [Language Usage Breakdown](https://jwd83.github.io/githubpie/?user=jwd83)
 
 Here are some of the projects I have published and other projects I have contributed to recenty.
-
+* An assortment of ranom tools [tools.jwd.me](https://tools.jwd.me)
 * [HDLBits Verilog Course Exercises and my FPGA CPU Designs](https://github.com/jwd83/verilog/)
 * In Browser Ping - [https://ping.ayrscott.com/](https://ping.ayrscott.com/)
 * In Browser Microphone Fast Fourier Transform - [https://jwd83.github.io/mic-fft/](https://jwd83.github.io/mic-fft/)
