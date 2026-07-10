@@ -22,7 +22,7 @@ Here are some of the projects I have published and other projects I have contrib
 * My first merge into a Godot Engine engine repository - [https://github.com/godotengine/godot-docs/pull/8101]([https://github.com/godotengine/godot-docs/pull/8101])
 * Fixing documentation with BunnyCDN - [https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7](https://github.com/BunnyWay/BunnyCDN.PHP.Storage/pull/7)
 * Left / Right Audio Test - [https://leftright.jwd.me/](https://leftright.jwd.me/)
-* My personal Obsidian wiki i experiment with [jwd.me](https://jwd.me/) my own simple static site generator [Onyx](https://onyx.jwd.me/) 
+* My personal Obsidian vault I experiment with [jwd.me](https://jwd.me/) built with my own simple static site generator [Onyx](https://onyx.jwd.me/) 
 
 # Current Setup (~Early 2026)
 
