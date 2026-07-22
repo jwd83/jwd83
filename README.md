@@ -28,6 +28,7 @@ Here are some of the projects I have published and other projects I have contrib
 
 * Workstation
   * AMD Ryzen 7 5700X3D
+  * AMD Radeon AI Pro R9700
   * AMD Radeon RX 9070 XT
   * 64GB DDR4-3200
   * Solidigm P41 2TB
